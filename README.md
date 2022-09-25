@@ -1,0 +1,3 @@
+# Online shop
+**React.js, TypeScript, Bootstrap**<br />
+Online shop coded using React and TypeScript. The responsive design is based on the Bootstrap framework. The shopping process is started by adding products in desired quantities to a shopping basket. The shopping basket icon is only visible in the navigation bar when it contains products. A user can view the content of the shopping basket in a sidebar component by clicking on the icon. The content of the shopping basket can be updated or the shopping process continued by clicking the checkout button. On the checkout page the order is summarised and total costs are displayed.

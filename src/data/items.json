@@ -1,0 +1,75 @@
+[
+  {
+    "id": 1,
+    "name": "Energy balls",
+    "price": 1.99,
+    "amount": "2 balls",
+    "description": "Dates, apples, oats & a hint of cinnamon",
+    "imgUrl": "/images/energy-balls.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Apple chips",
+    "price": 2.99,
+    "amount": "250 g",
+    "description": "Dehydrated apples slice, unsulphured",
+    "imgUrl": "/images/dried-apples.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Banana chips",
+    "price": 2.59,
+    "amount": "200 g",
+    "description": "Fried in coconut oil, no sugar/salt added",
+    "imgUrl": "/images/banana-chips.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Fruit rolls",
+    "price": 2.99,
+    "amount": "6 rolls",
+    "description": "Chewy dehydrated fruit mix",
+    "imgUrl": "/images/fruit-leather.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Bread chips",
+    "price": 2.99,
+    "amount": "350 g",
+    "description": "Ovenbaked bread chips with salt",
+    "imgUrl": "/images/bread-chips.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Veggie spread",
+    "price": 2.99,
+    "amount": "150 g",
+    "description": "Roasted eggplant & chickpeas",
+    "imgUrl": "/images/veggie-spread.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Pickled veggies",
+    "price": 2.99,
+    "amount": "250 g",
+    "description": "Pickled carrots & cucumbers",
+    "imgUrl": "/images/pickled-veggies.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Tomato chutney",
+    "price": 2.99,
+    "amount": "250 g",
+    "description": "Tomato chutney with onion & garlic",
+    "imgUrl": "/images/tomato-chutney.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Berry jam",
+    "price": 2.99,
+    "amount": "250 g",
+    "description": "Vegan mixed berry jam",
+    "imgUrl": "/images/berry-jam.jpg"
+  }
+
+]
